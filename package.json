@@ -1,0 +1,13 @@
+{
+  "name": "sourcegraph-monitor-webhooks",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.14.1",
+    "bun-types": "^0.1.0",
+    "wrangler": "^2.0.24"
+  },
+  "dependencies": {
+    "hono": "^2.1.1"
+  }
+}
