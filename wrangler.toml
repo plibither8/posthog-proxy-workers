@@ -1,0 +1,3 @@
+name = "posthog-reverse-proxy"
+compatibility_date = "2022-09-29"
+main = "src/index.ts"
